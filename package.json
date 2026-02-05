@@ -1,0 +1,14 @@
+{
+  "name": "go-happy-presentation",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --port 8085",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.50.0",
+    "@slidev/theme-default": "latest"
+  }
+}
