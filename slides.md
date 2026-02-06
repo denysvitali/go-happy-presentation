@@ -16,6 +16,8 @@ title: I'm a Happy Engineer Now
 mdc: true
 # Color theme customization
 colorSchema: 'dark'
+# Base path for GitHub Pages subdirectory
+base: /go-happy-presentation/
 ---
 
 <div class="absolute top-8 left-8">
