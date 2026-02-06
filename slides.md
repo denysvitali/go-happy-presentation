@@ -21,7 +21,7 @@ base: /go-happy-presentation/
 ---
 
 <div class="absolute top-8 left-8">
-  <img src="/go-happy-presentation/logo.png" class="h-16 rounded-lg shadow-lg" />
+  <img src="/logo.png" class="h-16 rounded-lg shadow-lg" />
 </div>
 
 <div class="absolute top-8 right-8 text-right text-sm opacity-50">
@@ -1092,7 +1092,7 @@ background: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1920&
 
 <br>
 
-<img src="/go-happy-presentation/logo.png" class="h-24 rounded-full shadow-2xl mb-8" />
+<img src="/logo.png" class="h-24 rounded-full shadow-2xl mb-8" />
 
 <div class="text-3xl mb-8 font-light">
   📱 + 🤖 = 🚀
