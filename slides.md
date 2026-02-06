@@ -49,6 +49,11 @@ colorSchema: 'dark'
   </div>
 </div>
 
+<!--
+> [!WARNING]
+> **This entire presentation was generated using GLM 4.7** via [Happy](https://happy.engineering), the open-source mobile and web client for Claude Code.
+-->
+
 ---
 layout: center
 class: text-center
