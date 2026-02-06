@@ -67,7 +67,10 @@ background: https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1920&
     ⚠️ WARNING
   </div>
   <div class="text-sm mt-1 text-white">
-    This entire presentation was generated using <span class="font-semibold text-emerald-300">GLM 4.7</span> via <a href="https://happy.engineering" class="underline">Happy</a>
+    This presentation was generated using <span class="font-semibold text-emerald-300">GLM 4.7</span> via <a href="https://happy.engineering" class="underline">Happy</a>
+  </div>
+  <div class="text-xs mt-2 opacity-70">
+    Based on: <a href="https://blog.denv.it/posts/im-happy-engineer-now/" class="underline">blog.denv.it/posts/im-happy-engineer-now/</a>
   </div>
 </div>
 
