@@ -6,7 +6,9 @@ export default defineConfig({
     allowedHosts: [
       'workspace-denys.beago-bass.ts.net',
       '.ts.net',
-      'localhost'
+      'localhost',
+      'slides-gophers.k2.k8s.best',
+      '.k8s.best'
     ]
   }
 })
