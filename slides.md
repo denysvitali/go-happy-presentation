@@ -62,6 +62,15 @@ background: https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1920&
 
 # What is Happy?
 
+<div class="mb-8 p-4 bg-red-500 bg-opacity-20 rounded-lg border-2 border-red-500 border-opacity-40 max-w-2xl mx-auto">
+  <div class="text-sm font-bold text-red-300">
+    ⚠️ WARNING
+  </div>
+  <div class="text-sm mt-1 text-white">
+    This entire presentation was generated using <span class="font-semibold text-emerald-300">GLM 4.7</span> via <a href="https://happy.engineering" class="underline">Happy</a>
+  </div>
+</div>
+
 <div class="text-2xl mb-8 font-light">
   An <span class="text-emerald-400 font-semibold"><a href="https://happy.engineering" target="_blank">open-source</a></span> mobile and web client for Claude Code
 </div>
